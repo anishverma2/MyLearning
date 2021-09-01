@@ -1,0 +1,4 @@
+name,age,degree,college
+Anish,25,cse,mit
+Verma,23,ece,ait
+Sahu,22,eee,sit

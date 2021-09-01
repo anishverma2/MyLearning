@@ -1,0 +1,16 @@
+2021-03-27 22:20:41,247 INFO     [loggingtopython.py:10] This won't show up
+2021-03-27 22:20:41,248 WARNING  [loggingtopython.py:11] This will show up
+2021-03-27 22:20:41,248 DEBUG    [loggingtopython.py:12] this is a debug message
+2021-03-27 22:20:41,248 CRITICAL [loggingtopython.py:13] A critical error occured.
+2021-03-27 22:20:56,404 INFO     [loggingtopython.py:10] This won't show up
+2021-03-27 22:20:56,404 WARNING  [loggingtopython.py:11] This will show up
+2021-03-27 22:20:56,404 DEBUG    [loggingtopython.py:12] this is a debug message
+2021-03-27 22:20:56,404 CRITICAL [loggingtopython.py:13] A critical error occured.
+2021-03-27 22:21:51,486 INFO     [loggingtopython.py:10] This won't show up
+2021-03-27 22:21:51,486 WARNING  [loggingtopython.py:11] This will show up
+2021-03-27 22:21:51,486 DEBUG    [loggingtopython.py:12] this is a debug message
+2021-03-27 22:21:51,486 CRITICAL [loggingtopython.py:13] A critical error occured.
+27-03-2021 22:24:52 INFO     [loggingtopython.py:12] This won't show up
+27-03-2021 22:24:52 WARNING  [loggingtopython.py:13] This will show up
+27-03-2021 22:24:52 DEBUG    [loggingtopython.py:14] this is a debug message
+27-03-2021 22:24:52 CRITICAL [loggingtopython.py:15] A critical error occured.
